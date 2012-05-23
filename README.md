@@ -12,7 +12,7 @@ An implementation of MATLAB's logspace in javascript.
 
 ## use
 
-### linspace.logspace(logFrom, logTo, length)
+### logspace(logFrom, logTo, length)
 
 Acts like logspace from matlab:
 
