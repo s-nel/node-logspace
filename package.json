@@ -1,0 +1,21 @@
+{
+  "author": "Joshua Holbrook <josh.holbrook@gmail.com> (http://jesusabdullah.net)",
+  "name": "logspace",
+  "description": "An implementation of MATLAB's logspace in javascript",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jesusabdullah/node-logspace",
+  "repository": {
+    "url": "git@github.com:jesusabdullah/node-logspace.git"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "linspace": "0.0.1-1"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "keywords": [
+    "logspace",
+    "matlab"
+  ]
+}
