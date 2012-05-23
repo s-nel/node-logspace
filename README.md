@@ -1,6 +1,6 @@
 # linspace
 
-An implementation of MATLAB's logspace in javascript
+An implementation of MATLAB's logspace in javascript.
 
 ## install
 
