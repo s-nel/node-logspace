@@ -1,4 +1,4 @@
-# linspace
+# logspace
 
 An implementation of MATLAB's logspace in javascript.
 
