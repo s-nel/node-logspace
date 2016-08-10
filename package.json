@@ -17,5 +17,6 @@
   "keywords": [
     "logspace",
     "matlab"
-  ]
+  ],
+  "license": "MIT"
 }
